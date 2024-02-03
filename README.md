@@ -1,5 +1,5 @@
 # BarotraumaModListMaker
-A simple Java application to parse Barotrauma mod load order list from steam collection URL so you don't have to re-arrange them manually when installing a collection.
+A simple Java console application to parse Barotrauma mod load order list from steam collection URL so you don't have to re-arrange them manually when installing a collection.
 
 ### How to use
 - **1. Clone repository and compile with java SDK or your IDE.**
